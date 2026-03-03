@@ -9,6 +9,7 @@
         }
         img{
             width: 100vw;
+            display: block;
         }
         a{
             display: block;
